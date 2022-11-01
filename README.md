@@ -1,10 +1,10 @@
-##Lab 14: Github Setup
+# Lab 14: Github Setup
  
-#Objective
+## Objective
 To set up a Github repository for your team project.
 
  
-#Details
+## Details
 Using Github will allow you to more easily share code between team members and keep your project in sync. In order to set this up, you will need to do the following:
 
 Everyone on the team needs to make a Github account, if you do not already have one. To do that, Navigate to https://github.com/join to sign up for an account. Fill in your details for step 1. For step 2, choose the free plan. For step 3, you can put in your interests if you like. You must also verify your email address. Log in to your email and click the verification link. To collaborate with Github, each team member needs their own account.
@@ -34,7 +34,7 @@ The next person should choose “Git→Pull” from the menu which should downlo
 Repeat step B for all team members who haven’t put their name in the file yet.
 Finally, everyone should perform a git pull, which should download the newest version of AUTHORS.txt with everyone’s names. This ensures that everyone has both read and write access to the repository.
  
-#Using the Repository
+## Using the Repository
 As you work on the project, you should follow the basic steps for working with Git:
 
 Start with “Pull” to make sure you are up to date before making any changes of your own.
@@ -43,7 +43,7 @@ Perform a “Commit” to save your work into your own repository. You can make 
 When you want to share your progress, do a “Push”. This sends the code you’ve worked on to the central repository. Next time your teammates do a git pull they will get your new stuff.
 Repeat!
  
-#Submitting
+## Submitting
 For this lab, you should enter the URL of your Github repository as a text entry on the Canvas assignment for this lab.
 
 Everyone on the team should do this for the lab which will tell me that each person has Github set up correctly and is ready to contribute!
